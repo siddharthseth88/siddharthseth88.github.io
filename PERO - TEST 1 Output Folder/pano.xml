@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="17227" appversion="6.0.1">
+  <panorama id="node1">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="1520" levelingpitch="0">
+      <level width="1520" predecode="0" preload="0" height="1520"/>
+      <level width="760" predecode="0" preload="0" height="760"/>
+      <level width="380" predecode="1" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" comment="" tags="01 - Entrance : Hearts : Time To Love" longitude="" customnodeid="" title="IMG_20200320_044715_00_035.insp" description="" source="" datetime="20/03/20 4:47 AM" latitude="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" textalpha="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" border="1" borderradius="1" bordercolor="0x000000" borderalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-163.06" title="IMG_20200320_044736_00_041.insp" description="" tilt="-28.18" url="{node2}" target="" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-165.16" title="IMG_20200320_044804_00_050.insp" description="" tilt="-18.87" url="{node3}" target="" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-142.31" title="IMG_20200320_044812_00_053.insp" description="" tilt="-8.96" url="{node4}" target="" id="Point03" skinid="ht_node"/>
+      <hotspot pan="-135.59" title="IMG_20200320_044831_00_059.insp" description="" tilt="-5.58" url="{node5}" target="" id="Point04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" invertwheel="0" lockedmouse="0" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="1520" levelingpitch="0">
+      <level width="1520" predecode="0" preload="0" height="1520"/>
+      <level width="760" predecode="0" preload="0" height="760"/>
+      <level width="380" predecode="1" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" comment="" tags="01 - Entrance : Hearts : Time To Love" longitude="" customnodeid="" title="IMG_20200320_044736_00_041.insp" description="" source="" datetime="20/03/20 4:47 AM" latitude="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" textalpha="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" border="1" borderradius="1" bordercolor="0x000000" borderalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-149.56" title="IMG_20200320_044804_00_050.insp" description="" tilt="-32.12" url="{node3}" target="" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-136.36" title="IMG_20200320_044812_00_053.insp" description="" tilt="-18.68" url="{node4}" target="" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-126.69" title="IMG_20200320_044831_00_059.insp" description="" tilt="-10.42" url="{node5}" target="" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" invertwheel="0" lockedmouse="0" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="1520" levelingpitch="0">
+      <level width="1520" predecode="0" preload="0" height="1520"/>
+      <level width="760" predecode="0" preload="0" height="760"/>
+      <level width="380" predecode="1" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" comment="" tags="01 - Entrance : Hearts : Time To Love" longitude="" customnodeid="" title="IMG_20200320_044804_00_050.insp" description="" source="" datetime="20/03/20 4:48 AM" latitude="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" textalpha="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" border="1" borderradius="1" bordercolor="0x000000" borderalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-62.43" title="IMG_20200320_044736_00_041.insp" description="" tilt="-31.78" url="{node2}" target="" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-63.88" title="IMG_20200320_044715_00_035.insp" description="" tilt="-21.16" url="{node1}" target="" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-179.88" title="IMG_20200320_044812_00_053.insp" description="" tilt="-29.71" url="{node4}" target="" id="Point03" skinid="ht_node"/>
+      <hotspot pan="-176.94" title="IMG_20200320_044831_00_059.insp" description="" tilt="-16.39" url="{node5}" target="" id="Point04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" invertwheel="0" lockedmouse="0" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="1520" levelingpitch="0">
+      <level width="1520" predecode="0" preload="0" height="1520"/>
+      <level width="760" predecode="0" preload="0" height="760"/>
+      <level width="380" predecode="1" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" comment="" tags="01 - Entrance : Hearts : Time To Love" longitude="" customnodeid="" title="IMG_20200320_044812_00_053.insp" description="" source="" datetime="20/03/20 4:48 AM" latitude="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" textalpha="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" border="1" borderradius="1" bordercolor="0x000000" borderalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-178.8" title="IMG_20200320_044831_00_059.insp" description="" tilt="-46.25" url="{node5}" target="" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-349.25" title="IMG_20200320_044804_00_050.insp" description="" tilt="-54.08" url="{node3}" target="" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-36.08" title="IMG_20200320_044736_00_041.insp" description="" tilt="-33.82" url="{node2}" target="" id="Point03" skinid="ht_node"/>
+      <hotspot pan="-60.5" title="IMG_20200320_044715_00_035.insp" description="" tilt="-21.3" url="{node1}" target="" id="Point04" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" invertwheel="0" lockedmouse="0" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelbiashidpi="1.000" width="1520" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingroll="0" height="1520" levelingpitch="0">
+      <level width="1520" predecode="0" preload="0" height="1520"/>
+      <level width="760" predecode="0" preload="0" height="760"/>
+      <level width="380" predecode="1" preload="1" height="380"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="100" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" tilt="90" fovstereographic="270" fovfisheye="360" scaletofit="1"/>
+    </view>
+    <userdata copyright="" info="" comment="" tags="01 - Entrance : Hearts : Time To Love" longitude="" customnodeid="" title="IMG_20200320_044831_00_059.insp" description="" source="" datetime="20/03/20 4:48 AM" latitude="" author=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label background="1" textalpha="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" enabled="1" wordwrap="1" border="1" borderradius="1" bordercolor="0x000000" borderalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot pan="-4.73" title="IMG_20200320_044812_00_053.insp" description="" tilt="-54.16" url="{node4}" target="" id="Point01" skinid="ht_node"/>
+      <hotspot pan="-5.51" title="IMG_20200320_044804_00_050.insp" description="" tilt="-36.26" url="{node3}" target="" id="Point02" skinid="ht_node"/>
+      <hotspot pan="-31.36" title="IMG_20200320_044736_00_041.insp" description="" tilt="-23.77" url="{node2}" target="" id="Point03" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomfov="20" type="crossdissolve" zoomoutpause="1" enabled="1" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" rubberband="0" lockedwheel="0" dblclickfullscreen="0" sensitivity="8" contextfullscreen="1" invertwheel="0" lockedmouse="0" simulatemass="1" contextprojections="0" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" info="" comment="" tags="" longitude="" customnodeid="" title="" description="" source="" datetime="" latitude="" author=""/>
+  </masternode>
+</tour>
